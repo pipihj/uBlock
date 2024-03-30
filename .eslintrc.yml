@@ -24,3 +24,4 @@ globals:
     browser: readonly
     chrome: readonly
     vAPI: readonly
+5
